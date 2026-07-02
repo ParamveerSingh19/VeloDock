@@ -98,10 +98,10 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Made by **Paramveer Singh**
+Made by [Paramveer Singh](https://github.com/ParamveerSingh19)
 
 ---
 
 ## 📃 License
 
-This project is licensed under the **MIT License**.   
+This project is licensed under the [MIT License](LICENSE).
